@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'RoobertMono';
+  src: url('RoobertMonoTRIAL-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Roobert';
+  src: url('RoobertTRIAL-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ITCAvantGarde';
+  src: url('ITCAvantGardePro-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
